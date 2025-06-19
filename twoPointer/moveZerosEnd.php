@@ -21,6 +21,6 @@ function moveZeroesToEnd(&$arr) {
 
 // Example
 $arr = [0, 1, 0, 3, 12];
-moveZeroesToEnd($arr);
+moveZeroesToEnd($arr);  
 print_r($arr);
 
